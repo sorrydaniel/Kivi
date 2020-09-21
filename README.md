@@ -18,3 +18,4 @@ SULGEMISnupp
 sissejuhatus
 alusta uuesti(reset nupp)
 lõpu pilt
+testlugu ja prototüüp- https://drive.google.com/drive/folders/1l9pQ1A-h8IBbddguDMYw3RnlqKU-ibd-?usp=sharing
