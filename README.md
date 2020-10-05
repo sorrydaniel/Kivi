@@ -19,3 +19,17 @@ sissejuhatus
 alusta uuesti(reset nupp)
 lõpu pilt
 testlugu ja prototüüp- https://drive.google.com/drive/folders/1l9pQ1A-h8IBbddguDMYw3RnlqKU-ibd-?usp=sharing
+
+Programmi kasutusjuhis:
+1. Tuleks allalaadida kaust, mis sisaldab:
+    FLIXNET_OIGE.py
+    FLIXNET.png
+    andmed.txt
+    the100.txt(hiljem sarjad. txt, praegu on asi veel poolik)
+2. Avada programm FLIXNET_OIGE.py
+3. Vajutada F5
+4. Lugeda läbi programmi tutvustus
+5. Vajutada nuppu "Edasi"
+6. Valida küsimuse põhjal endale kõige sobivam vastusevariant ning siis vajutada nuppu "next"(nii 2x)
+7. Viimasena vajutada nuppu "Otsi" ning see väljastab sarja/sarjad kasutaja vastatud küsimuste põhjal(praegu ei tee see veel midagi)
+
