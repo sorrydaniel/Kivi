@@ -25,11 +25,12 @@ Programmi kasutusjuhis:
     FLIXNET_OIGE.py
     FLIXNET.png
     andmed.txt
-    the100.txt(hiljem sarjad. txt, praegu on asi veel poolik)
+    sarjad3.txt
 2. Avada programm FLIXNET_OIGE.py
 3. Vajutada F5
 4. Lugeda läbi programmi tutvustus
 5. Vajutada nuppu "Edasi"
+(Praegu programm töötab ainult mõnede valikvastustega nt seitsmes valik siis neljas ja viimasena esimene)
 6. Valida küsimuse põhjal endale kõige sobivam vastusevariant ning siis vajutada nuppu "next"(nii 2x)
 7. Viimasena vajutada nuppu "Otsi" ning see väljastab sarja/sarjad kasutaja vastatud küsimuste põhjal(praegu ei tee see veel midagi)
 
