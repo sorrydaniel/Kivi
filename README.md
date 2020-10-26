@@ -32,5 +32,5 @@ Programmi kasutusjuhis:
 5. Vajutada nuppu "Edasi"
 (Praegu programm töötab ainult mõnede valikvastustega nt seitsmes valik siis neljas ja viimasena esimene)
 6. Valida küsimuse põhjal endale kõige sobivam vastusevariant ning siis vajutada nuppu "next"(nii 2x)
-7. Viimasena vajutada nuppu "Otsi" ning see väljastab sarja/sarjad kasutaja vastatud küsimuste põhjal(praegu ei tee see veel midagi)
+7. Viimasena vajutada nuppu "Search" ning see väljastab sarja/sarjad kasutaja vastatud küsimuste põhjal(praegu ei tee see veel midagi)
 
