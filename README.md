@@ -21,7 +21,7 @@ lõpu pilt
 testlugu ja prototüüp- https://drive.google.com/drive/folders/1l9pQ1A-h8IBbddguDMYw3RnlqKU-ibd-?usp=sharing
 
 Prototüüp Programmi kasutusjuhis:
-1. Tuleks allalaadida kaust, mis sisaldab:
+1. Tuleks allalaadida failid:
     FLIXNET_OIGE.py
     FLIXNET.png
     andmed.txt
@@ -35,7 +35,7 @@ Prototüüp Programmi kasutusjuhis:
 7. Viimasena vajutada nuppu "Search" ning see väljastab sarja/sarjad kasutaja vastatud küsimuste põhjal
 
 Lõppvesiooni Programmi kasutusjuhis:
-1. Tulek salla laadida kaust, mis sisaldab
+1. Tuleks alla laadida failid:
 FLIXNET_LOPLIK.py
 flixnet.png
 andmet.txt
@@ -43,6 +43,6 @@ sarjad.txt
 2. Avada programm FLIXNET_LOPLIK.py
 3. Panna programm tööle siis kas f5 või vajutada rohelisele start nupule
 4. Lugeda läbi programmi tutvustus
-5. Vajutada nupule "Edasi" mis väljastab teile küsimuse
+5. Vajutada nupule "Edasi" mis väljastab teile esimese küsimuse
 6. Valida küsimuse põhjal endale sobilik vastus siis vajutada selle vastusevariandi peale ja peale seda vajutada "next" ja seda korrata 2 korda veel kokku on 3 küsimust.
-7. Peale küsimustele vastamist vajuta nupule "SEARCH" ning see väljastab sarja/sarjad kui mõni eksisteerib meie sarjade hulgast teie soovidele. Kui ühtegi sarja ei eksisteeri teie kriteeriumitele siis väljastab "Sarju ei leitud :("
+7. Peale küsimustele vastamist vajuta nupule "SEARCH" ning see väljastab sarja/sarjad, kui mõni eksisteerib meie sarjade hulgast teie soovidele. Kui ühtegi sarja ei eksisteeri teie kriteeriumitele siis väljastab "Sarju ei leitud :("
