@@ -44,5 +44,5 @@ sarjad.txt
 3. Panna programm tööle siis kas f5 või vajutada rohelisele start nupule
 4. Lugeda läbi programmi tutvustus
 5. Vajutada nupule "Edasi" mis väljastab teile esimese küsimuse
-6. Valida küsimuse põhjal endale sobilik vastus siis vajutada selle vastusevariandi peale ja peale seda vajutada "next" ja seda korrata 2 korda veel kokku on 3 küsimust.
+6. Valida küsimuse põhjal endale sobilik vastus siis vajutada selle vastusevariandi peale ja peale seda vajutada "next" ja seda korrata 2 korda veel, kokku on 3 küsimust.
 7. Peale küsimustele vastamist vajuta nupule "SEARCH" ning see väljastab sarja/sarjad, kui mõni eksisteerib meie sarjade hulgast teie soovidele. Kui ühtegi sarja ei eksisteeri teie kriteeriumitele siis väljastab "Sarju ei leitud :("
