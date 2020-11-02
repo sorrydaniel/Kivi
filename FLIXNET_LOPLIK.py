@@ -210,16 +210,19 @@ def vastus():
         sõnastik[nr] = sari 
         
         
-    silt_vastus2 = ttk.Label(aken, text = "Sarju ei leitud :(")
-    silt_vastus2.place(x=260, y=290)
-    silt_vastus2.config(font=("Rockwell", 25), background = "black", foreground = "white")
     
-    if ":" in sõnastik[rida]:
-        sõnastik[rida]=sõnastik[rida].replace(":", "\n")
-        
-    silt_vastus = ttk.Label(aken, text = "Teile sobivad sarjad:\n\n" + sõnastik[rida])
-    silt_vastus.place(x=260, y=290)
-    silt_vastus.config(font=("Rockwell", 25), background = "black", foreground = "white")
+    try:
+        if ":" in sõnastik[rida]:
+            sõnastik[rida]=sõnastik[rida].replace(":", "\n")
+        silt_vastus = ttk.Label(aken, text = "Teile sobivad sarjad:\n\n" + sõnastik[rida])
+        silt_vastus.place(x=260, y=290)
+        silt_vastus.config(font=("Rockwell", 25), background = "black", foreground = "white")
+    except:
+        silt_vastus2 = ttk.Label(aken, text = "Sarju ei leitud :(")
+        silt_vastus2.place(x=260, y=290)
+        silt_vastus2.config(font=("Rockwell", 25), background = "black", foreground = "white")
+    
+    
                       
     fail2.close()
     aken.mainloop()
